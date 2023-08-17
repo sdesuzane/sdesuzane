@@ -1,4 +1,4 @@
-## ✌🏻 Olá! eu sou a Maria Suzane!
+## Olá! ✌🏻 
 
 Atualmente estou cursando Ciência da Computação. Sou novata nesse mundo louco da tecnologia e me apaixonando cada vez mais.
 Busco constantemente por mais conhecimento e crescimento profissional e também pessoal.

@@ -1,4 +1,4 @@
-# Hello! ✌🏻 
+# Hi! ✌🏻 
 
 I'm currently studying Computer Science. I'm new to this crazy world of technology and I'm falling more and more in love with it. My main focus is Front-end development... <br>
 I constantly seek more knowledge, professional and personal growth.

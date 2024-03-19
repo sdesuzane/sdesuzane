@@ -1,6 +1,9 @@
 <h1 align="center">Hi there!👋</h1>
-I am currently studying Computer Science. I'm new to this crazy world of technology and I'm falling more and more in love with it.<br>
-Before, my main focus was Front-end development, but now I really like Data Science, so I want to follow this path.<br> I constantly seek more knowledge, professional and personal growth.
+I'm making a career transition, so I'm still new to technology. I am currently studying/specializing in Data Science, Machine Learning and AWS, in addition to college. <br>
+
+At the beginning of my studies the main focus was front end development, but now I really enjoy working with data.<br>
+
+Every day I seek more knowledge, personal and professional growth.
 
 
 

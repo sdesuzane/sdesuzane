@@ -1,6 +1,6 @@
 <img align="right" alt="" height="300px" src="profile-avatar.jpg">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=990c94&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Maria+Suzane!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=990c94&random=false&width=435&height=40&lines=Hi,+I'm+Maria+Suzane!)](https://git.io/typing-svg)
 
 
 I'm making a career transition, so I'm still new to technology. I am currently studying/specializing in Data Science, Machine Learning and AWS, in addition to college.<br>

@@ -20,4 +20,10 @@ Every day I seek more knowledge, personal and professional growth.
 [![My Skills](https://skillicons.dev/icons?i=javascript,py,css,html,git,react,vscode&theme=dark)](https://skillicons.dev)
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sdesuzane&theme=transparent&show_icons=true&hide_border=true"  width="364px" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=sdesuzane&theme=transparent&hide_border=true"  width="364px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sdesuzane&theme=transparent&show_icons=true&hide_border=true"  width="364px" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=sdesuzane&theme=transparent&hide_border=true"  width="364px"/> <br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sdesuzane/sdesuzane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sdesuzane/sdesuzane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sdesuzane/sdesuzane/output/github-contribution-grid-snake.svg">
+</picture>

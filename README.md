@@ -7,12 +7,6 @@ I'm making a career transition, so I'm still new to technology. I am currently s
 At the beginning of my studies the main focus was front end development, but now I really enjoy working with data.<br>
 Every day I seek more knowledge, personal and professional growth.
 
-
-
-
-
-
-
 ### 🌐 Connect with me:
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=990c94&color:FFF)](mailto:suzaane97@gmail.com)

@@ -1,4 +1,4 @@
-<img align="right" alt="" height="300px" src="profile-avatar.png">
+<img align="right" alt="" height="400px" src="coffee.png">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=990c94&random=false&width=435&height=40&lines=Hi,+I'm+Maria+Suzane!)](https://git.io/typing-svg)
 

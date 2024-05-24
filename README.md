@@ -12,7 +12,7 @@ I currently work as a Computer Expert at the Civil Police of the Federal Distric
 ### 🌐 Connect with me:
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=990c94&color:FFF)](mailto:suzaane97@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=990c94&color:FFF)](https://www.linkedin.com/in/maria-suzane-712b4b282/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=990c94&color:FFF)](https://www.linkedin.com/in/mariasuzane/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=990c94&color:FFF)](https://www.instagram.com/sdesuzane/)
 
 ### 💻 Tech Stack:

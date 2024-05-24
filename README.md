@@ -1,6 +1,6 @@
 <img align="right" alt="" height="400px" src="coffee.png">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=990c94&random=false&width=435&height=40&lines=Hi,+I'm+Maria+Suzane!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=990c94&random=false&width=435&height=40&lines=I'm+Maria+Suzane!)](https://git.io/typing-svg)
 
 
 Hello! I'm in a career transition, so I'm still new to the field. I'm currently in the 3rd semester of Computer Science at Estácio de Sá University and falling more and more in love with technology.

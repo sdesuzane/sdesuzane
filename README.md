@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=990c94&random=false&width=435&height=40&lines=I'm+Maria+Suzane!)](https://git.io/typing-svg)
 
 
-Hello! I'm in a career transition, so I'm still new to the field. I'm currently in the 3rd semester of Computer Science at Estácio de Sá University and falling more and more in love with technology.
+Hello! I'm currently in the 4th semester of my Computer Science degree at Estácio de Sá University and am increasingly passionate about technology.
 
-Initially, my focus was only on front-end development, where I acquired skills in HTML5, CSS3, JavaScript and a little React. However, my journey led me to the vast world of data after winning a scholarship in Data Science, and since then I have explored technologies like SQL, Python, libraries for data analysis, and graphs for better data visualization. Furthermore, I am proficient in Git and GitHub, ensuring efficient collaboration and project versioning.
+Initially, my focus was solely on front-end development, where I acquired skills in HTML5, CSS3, JavaScript, and some React. However, my journey led me to the vast world of data, where I explored technologies such as SQL, Python, data analysis libraries, and visualization tools, as well as Big Data and Machine Learning. Additionally, I am proficient in Git and GitHub, ensuring efficient collaboration and project versioning.
 
 Currently, I work as a high-tech forensic expert at the Civil Police of the Federal District, but I’m open to opportunities that help me grow even further in the vast world of technology.
 

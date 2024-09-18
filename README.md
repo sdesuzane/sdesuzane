@@ -1,28 +1,19 @@
-<div align="center" >
-  <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
-</div>
+<img align="right" width="400" src="https://media.giphy.com/media/YAnpMSHcurJVS/giphy.gif?cid=ecf05e473td11suapn4rt64qy041vp79uknhqbsy39rchjss&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=990c94&random=false&width=435&height=40&lines=I'm+Maria+Suzane!)](https://git.io/typing-svg)
-
-  <h3>
-    Currently studying the 4th semester of Computer Science, focusing on web development.</br>
-    I also have knowledge in SQL, Python, tools and technologies for data analysis and</br>
-    cloud services such as AWS.
-  </h3>
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=exo+2&size=24&pause=100&color=790975&center=true&vCenter=true&width=435&lines=I'm%2C+Maria+Suzane...;and+I'm+a+web+developer!">
 </p>
+
+<h3>
+  Web developer passionate about design and technology, always looking to create innovative</br> and functional digital experiences.
+</h3>
+<h4 align="left">🎓 Studying computer science</br> 🎮 I love videogames and RPGs</h4>
 
 ### 🌐 Connect with me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suzaane97@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariasuzane/)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/sdesuzane)
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"> 
-</p>
 
 ### 💻 Tech Stack:
 <br>
@@ -52,18 +43,20 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"> 
-</p>
+<img align="center" src="https://www.animatedimages.org/data/media/562/animated-line-image-0498.gif" width="1920"></br></br>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sdesuzane&theme=radical&showicons=true&hideborder=false&layout=compact)&nbsp;&nbsp;
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sdesuzane&theme=radical&showicons=true&hideborder=false&layout=compact)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![sdesuzane Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sdesuzane&theme=radical&showicons=true&hideborder=false&layout=compact)
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"> 
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sdesuzane/sdesuzane/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sdesuzane/sdesuzane/output/github-contribution-grid-snake.svg">
 </picture>
+
+</br>
+
+<div align="left">
+  <a href="https://www.canva.com/design/DAGP09wqzNw/QXUgGimjb3x0QgtpP88z4A/view?utm_content=DAGP09wqzNw&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">
+  <img src="https://img.shields.io/badge/CV-Maria_suzane-790975" height="40"/>
+  </a>
+</div>

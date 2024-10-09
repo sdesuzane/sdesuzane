@@ -48,7 +48,7 @@
 
 ## 🔗 Portfolio and Website:
 
-[![Portfolio](https://img.shields.io/badge/My&nbsp;Portfolio-790975?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com](https://sdesuzane.github.io/))
+[![Portfolio](https://img.shields.io/badge/My&nbsp;Portfolio-790975?style=for-the-badge&logo=todoist&logoColor=white)](https://sdesuzane.github.io/)
 [![Blog](https://img.shields.io/badge/Latte&nbsp;Digital-3c5bca?style=for-the-badge&logo=blogger&logoColor=white)](https://lattedigital.com.br/)
 
 <img align="center" src="https://www.animatedimages.org/data/media/562/animated-line-image-0498.gif" width="1920"></br></br>

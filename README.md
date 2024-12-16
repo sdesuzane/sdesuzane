@@ -1,7 +1,7 @@
-<img align="right" width="400" src="https://media.giphy.com/media/YAnpMSHcurJVS/giphy.gif?cid=ecf05e473td11suapn4rt64qy041vp79uknhqbsy39rchjss&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding">
+<img align="right" width="380" src="https://media.giphy.com/media/YAnpMSHcurJVS/giphy.gif?cid=ecf05e473td11suapn4rt64qy041vp79uknhqbsy39rchjss&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=exo+2&size=24&pause=100&color=790975&center=true&vCenter=true&width=435&lines=I'm%2C+Maria+Suzane...;and+I'm+a+web+developer!">
+  <img src="https://readme-typing-svg.demolab.com?font=exo+2&size=24&pause=100&color=790975&center=true&vCenter=true&width=435&lines=I'm%2C+Maria+Suzane..!">
 </p>
 
 <br>

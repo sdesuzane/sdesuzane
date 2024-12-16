@@ -7,7 +7,7 @@
 <br>
 
 <h3>
-  Web developer passionate about design and technology, always looking to create innovative</br> and functional digital experiences.
+  Since the beginning of my journey in IT, I have always sought to learn and improve, exploring areas such as web development and data analysis, where I have been consolidating valuable knowledge.
 </h3>
 
 <h3>🌐 Connect with me:</h3>

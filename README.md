@@ -1,21 +1,13 @@
-<img align="right" width="340" src="https://media.giphy.com/media/YAnpMSHcurJVS/giphy.gif?cid=ecf05e473td11suapn4rt64qy041vp79uknhqbsy39rchjss&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding">
+<img align="right" width="200" src="https://media.giphy.com/media/YAnpMSHcurJVS/giphy.gif?cid=ecf05e473td11suapn4rt64qy041vp79uknhqbsy39rchjss&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=exo+2&size=24&pause=100&color=790975&center=true&vCenter=true&width=435&lines=I'm+Front-end+Developer!">
-</p>
+<img align="center" src="https://readme-typing-svg.demolab.com?font=exo+2&size=24&pause=100&color=790975&center=true&vCenter=true&width=435&lines=I'm+Front-end+Developer!">
 
-<br>
+<br><br>
 
-<h3>
-  Since the beginning of my journey in IT, I have consistently sought to learn and grow, especially by exploring areas such as web development, where I’ve been building a solid foundation of valuable knowledge.
-</h3>
-
-<h3>🌐 Connect with me:</h3>
+## 🌐 Connect with me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suzaane97@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariasuzane/)
-
-<br>
 
 ## 💻 My Skills:
 

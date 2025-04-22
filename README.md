@@ -1,8 +1,9 @@
-<img align="right" width="200" src="https://media.giphy.com/media/YAnpMSHcurJVS/giphy.gif?cid=ecf05e473td11suapn4rt64qy041vp79uknhqbsy39rchjss&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding">
+<div align="center">
+ <img src="https://media.giphy.com/media/YAnpMSHcurJVS/giphy.gif" width="200">
+	
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fancy&weight=500&size=28&pause=1000&color=790975&center=true&vCenter=true&width=435&lines=I'm+Front-end+Developer)](https://git.io/typing-svg)
 
-<img align="center" src="https://readme-typing-svg.demolab.com?font=exo+2&size=24&pause=100&color=790975&center=true&vCenter=true&width=435&lines=I'm+Front-end+Developer!">
-
-<br><br>
+</div>
 
 ## 🌐 Connect with me:
 

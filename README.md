@@ -45,3 +45,9 @@
   <img src="https://img.shields.io/badge/CV-Maria_suzane-790975" height="40"/>
   </a>
 </div>
+
+<!-- <div align="center">
+  <h1>𝖲𝗉𝗈𝗍𝗂𝖿𝗒</h1>
+  
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=northerndownpour_&count=3)
+</div>  -->

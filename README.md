@@ -5,6 +5,12 @@
 
 </div>
 
+<div align="center"
+	
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
 ## 🌐 Connect with me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suzaane97@gmail.com)

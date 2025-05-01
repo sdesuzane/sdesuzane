@@ -1,13 +1,12 @@
+<div align="center"
+	
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=catppuccin&type=horizontal&quote=What%20one%20programmer%20can%20do%20in%20one%20month,%20two%20programmers%20can%20do%20in%20two%20months.)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
+
 <div align="center">
  <img src="https://media.giphy.com/media/YAnpMSHcurJVS/giphy.gif" width="200">
 	
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=fancy&weight=500&size=28&pause=1000&color=790975&center=true&vCenter=true&width=435&lines=I'm+Front-end+Developer!)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center"
-	
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 

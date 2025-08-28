@@ -6,7 +6,7 @@
 <div align="center">
  <img src="https://media.giphy.com/media/YAnpMSHcurJVS/giphy.gif" width="200">
 	
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=fancy&weight=500&size=28&pause=1000&color=790975&center=true&vCenter=true&width=435&lines=I'm+Front-end+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fancy&weight=500&size=28&pause=1000&color=790975&center=true&vCenter=true&width=435&lines=I'm+Front-end+Developer!!!)](https://git.io/typing-svg)
 
 </div>
 

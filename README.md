@@ -36,7 +36,7 @@
 
 <img align="center" src="https://www.animatedimages.org/data/media/562/animated-line-image-0498.gif" width="1920"></br></br>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sdesuzane&theme=radical&showicons=true&hideborder=false&layout=compact)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sdesuzane&theme=radical&showicons=true&hideborder=false&layout=compact)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdesuzane&hide_progress=true&theme=radical&showicons=true&hideborder=false&layout=compact)
 
 <picture>
